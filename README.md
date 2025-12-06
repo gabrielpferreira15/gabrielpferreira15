@@ -10,6 +10,8 @@
 
 ## Minhas Skills
 
+**Linguagens de Programação**
+
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -47,7 +49,9 @@
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying Computer Science and Cybersecurity at CESAR School.
 
-## Skills
+## My Skills
+
+**Programming Languages**
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
